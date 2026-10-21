@@ -1,3 +1,5 @@
+[![Version](https://img.shields.io/github/v/release/Screenly/demo-dashboard-app)](https://github.com/Screenly/demo-dashboard-app/releases/latest)
+
 # Demo Dashboard App
 
 A collection of simulated digital signage dashboards. Choose from four distinct views, site analytics, workplace safety, manufacturing operations, or production quality, each with realistic, auto-refreshing data.
